@@ -1,1 +1,4 @@
 1- git clone url del repo
+2- git status muestra información del estado del repositorio.
+3- git add . sigue todos los archivos
+4- git commit -m "mensaje" 
